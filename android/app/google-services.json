@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121164274311",
+    "project_id": "mastiskara",
+    "storage_bucket": "mastiskara.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121164274311:android:c957a67619a72be3b43622",
+        "android_client_info": {
+          "package_name": "com.mastiskara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB-Lx-cF6Ae5TqBfdrP9MlgKje2RaezoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
